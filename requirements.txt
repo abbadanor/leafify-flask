@@ -1,5 +1,4 @@
 Flask
+Pillow
 flask-cors
 numpy
-Pillow
-tflite-runtime
